@@ -2,6 +2,7 @@
   "name": "test-bitost",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hitrik.github.io/test-bit",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
